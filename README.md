@@ -9,6 +9,10 @@
 3. 맞추면 점수가 올라가고 다음 게임이 진행됩니다. 맞추지 못하면 우스꽝스러운 이미지와 함께 게임이 종료됩니다!
 4. 재밌게 즐겨주세요!
 
+![게임화면](게임.png)
+
+- 게임 화면 예시
+
 ## :family: 정보
 
 장지창 – [@깃허브 주소](https://github.com/jangjichang) - [@블로그 주소](https://planjang.tistory.com/) – [@이메일 주소](wlckd90@gmail.com)
