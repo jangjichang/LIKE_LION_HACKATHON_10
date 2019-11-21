@@ -12,8 +12,11 @@
 ## :family: 정보
 
 장지창 – [@깃허브 주소](https://github.com/jangjichang) - [@블로그 주소](https://planjang.tistory.com/) – [@이메일 주소](wlckd90@gmail.com)
+
 박지수 -
+
 정규석 -
+
 이수연 -
 
 ## 개발환경
